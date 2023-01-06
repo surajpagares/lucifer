@@ -9,6 +9,7 @@ public class Tc1Test {
 	public void m1()
 	{
 	Reporter.log("Tc1 running");
+      Reporter.log("TC1 jumping");
 	}
 	
 }
